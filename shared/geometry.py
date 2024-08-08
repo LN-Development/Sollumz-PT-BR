@@ -523,9 +523,6 @@ def _compute_neighbors(mesh_vertices, mesh_faces):
 
 
 def grow_sphere(center: Vector, radius: float, point: Vector, point_radius: float) -> float:
-    """Calculates the new radius of a sphere that needs to grow such that the point (with its radius) is enclosed
-    within the sphere. If the current radius is already sufficient to include the point and its radius, returns the
-    current radius.
-    """
+    """Calcúla o novo raio da esfera caso precise crescer até o ponto delimitado. Se o raio já for suficiente, inclue o ponto e seu raio, retornando o raio atual."""
     dist = (point - center).length + point_radius
     return dist if dist > radius else radius
