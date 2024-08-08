@@ -1,28 +1,30 @@
 # Sollumz
-Blender plugin to import, export, or create GTA V assets in the Codewalker XML format.
+Plugin para o Blender que importa, exporta ou cria arquivos relacionados ao GTA V usando o formato XML do Codewalker
 
-By Skylumz, Colton Fox and alexguirre.
+Feito por Skylumz, Colton Fox e alexguirre.
+
+Traduzido por LN
 
 ## Join our Discord
-Join the Sollumz [discord server](https://discord.gg/bZuWBWaQBg) to ask questions and chat with the community!
+Entre na comunidade oficial do Sollumz [discord server](https://discord.gg/bZuWBWaQBg) para perguntar e conversar com a comunidade!
 ## Using the plugin
-See the [wiki](https://github.com/Skylumz/Sollumz/wiki) to get started. Make sure to read the wiki before posting an issue or asking questions! Also, see the Tutorials and Resources channel on the Discord server.
+Para iniciar veja a wiki completa em [wiki](https://github.com/Skylumz/Sollumz/wiki). Leia toda a Wiki antes de realizar perguntas! Também veja os tutorials no canal de resources e também em vídeos
 
-**Note:** The issue tracker should be for bug reports and feature requests only. If you are having an issue and you are not sure if it is a bug or not, ask on the Discord server first!
+**Note:** A função de bugs e erros deve ser usada somente para problemas com o aplicativo. Se você tem um problema e não tem certeza se é realmente um erro, primeirp pergunte na comunidade!
 
-## Features ##
+## Funções ##
 
-**Supported Formats (Import)**
+**Formatos de importação suportados (Importar)**
   * YDD
   * YDR
   * YBN
   * YCD
   * YMAP
   * YTYP
-  * YNV (Partial)
+  * YNV (Parcialmente)
   * YFT
   
-**Supported Formats (Export)**
+**Formatos de importação suportados (Exportar)**
   * YDD
   * YDR
   * YBN
@@ -31,31 +33,31 @@ See the [wiki](https://github.com/Skylumz/Sollumz/wiki) to get started. Make sur
   * YTYP
   * YFT
   
-**General Features**
-  * Import / Export
-  * Automatic texture loading
-  * Vertex colors
+**Funções em geral**
+  * Importar / Exportar
+  * Carregamento automático de texturas
+  * Cores dos Vértices
   * Bones and weights
-  * Animations
+  * Animações
   * Custom normals
-  * Shader editing
-  * Vehicle creation/editing
-  * Dynamic prop creation/editing
+  * Edição de shaders
+  * Criação e edição de veículos
+  * Criação e edição dinâmica de props
 
 ## Requirements ##
-  * Latest Codewalker release from [their discord](https://discord.gg/codewalker)
-  * [Blender 4.0 or later](http://www.blender.org/download/)
+  * Versão mais recente do Codewalker [Discord oficial](https://discord.gg/codewalker)
+  * [Blender 4.0 ou superior](http://www.blender.org/download/)
 
 ## Installation ##
-  1. Download the [latest release](https://github.com/Skylumz/Sollumz/releases/latest)
-  2. Start Blender
-  3. Click menu _`Edit > Preferences...`_
-  4. Go to the  _`Addons`_ tab in the middle
-  5. Click _`Install...`_ button at the top
-  6. Select the Downloaded ZIP
-  7. The following entry should be shown: _`Import-Export: Sollumz`_
-  8. Enable the addon
-  9. Restart Blender
+  1. Baixe em [Ultima Versão](https://github.com/Skylumz/Sollumz/releases/latest)
+  2. Inicie o Blender
+  3. Clique em _`Edit > Preferences...`_
+  4. Vá para  _`Addons`_ tab in the middle
+  5. Clique no botão na parte de cima _`Install...`_ 
+  6. Selecione o arquivo Zip, sem o exportar
+  7. A seguinte opção deve aparecer: _`Import-Export: Sollumz`_
+  8. Ative o Addon
+  9. Reinicie o Blender
 
 ---
 ### Supporters ❤️ ###
